@@ -1,0 +1,10 @@
+This project deals with image pyramids, low-pass and band-pass filtering, and their application in image
+blending. In this project I construct Gaussian and Laplacian pyramids, use these to implement
+pyramid blending, and finally compare the blending results when using different filters in the various
+expand and reduce operations.
+
+Image Pyramids
+• Gaussian & Laplacian pyramid construction of a given image.
+• Laplacian pyramid reconstruction of an image from its Laplacian Pyramid.
+• Pyramid display, facilitate the display of pyramids, implement the following two functions:
+• Pyramid Blending of 2 images.
